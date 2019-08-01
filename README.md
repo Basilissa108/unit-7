@@ -1,3 +1,16 @@
+Before you can run this project, you need to create a file named `config.js` in the folder `src` and add the following code:
+
+```js
+    // exchange "your API key here" with your valid Flickr API key
+    const apiKey = "your API key here";
+    export default apiKey;
+```
+Then you need to run `npm install` to install all dependencies and afterwards `npm start` to start the application.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

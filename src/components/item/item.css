@@ -1,0 +1,5 @@
+img {
+    width: 100%;
+    transform: scale(1.25);
+    transition: transform 1.25s;
+}
